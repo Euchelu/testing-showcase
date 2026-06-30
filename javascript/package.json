@@ -1,0 +1,17 @@
+{
+  "name": "testing-showcase-js",
+  "version": "1.0.0",
+  "description": "Form validators tested with Jest",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testMatch": [
+      "**/tests/**/*.test.js"
+    ]
+  }
+}
