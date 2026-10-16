@@ -90,6 +90,5 @@ JUnit test reports are uploaded as GitHub Actions artifacts after each run.
 
 ## Author
 
-**José Ángel Ceballos Rodríguez**
+**Euchelu**
 - GitHub: [@Euchelu](https://github.com/Euchelu)
-- LinkedIn: [José Ángel Ceballos](https://www.linkedin.com/in/josé-ángel-ceballos-rodríguez-a44996346/)
